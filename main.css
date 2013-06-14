@@ -72,6 +72,7 @@ a{
 	height: 23px;
 	background-color: #000;
 	float: left;
+	white-space: nowrap;
 }
 
 
@@ -174,6 +175,7 @@ a{
 	background-color: white;
 	width: 100%;
 	border-top: 1px solid #d9d9d9;
+	white-space: nowrap;
 }
 
 #footer ul{
